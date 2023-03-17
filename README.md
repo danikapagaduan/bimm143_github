@@ -18,4 +18,3 @@ My classwork from [BIMM143]() at UC San Diego Winter 2023.
 - Class 16:
 - Class 17:
 - Class 18:
-- Class 19: [code](https://github.com/danikapagaduan/bimm143_github/blob/main/class19/class19.qmd)
